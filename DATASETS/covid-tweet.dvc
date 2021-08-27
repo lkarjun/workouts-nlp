@@ -1,0 +1,5 @@
+outs:
+- md5: dcaf2c18ebbd552544207b1b322efbc3.dir
+  size: 11502756
+  nfiles: 2
+  path: covid-tweet
