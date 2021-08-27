@@ -1,0 +1,5 @@
+outs:
+- md5: 8e2c42fbed9f35a6f50a20a7b0c2854e.dir
+  size: 69912568
+  nfiles: 1
+  path: toxic-comment
