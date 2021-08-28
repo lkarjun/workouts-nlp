@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "6f1109b2408b3334ff081aba5f9984753327b7658e92a15545bf79518c094523"
+            "sha256": "3a334453066263ce647e406723bd67e7e81d842b18fdc903168de84c8b6dccaf"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -256,7 +256,7 @@
                 "sha256:fc4f526dfdb31c9bd6b8ca06bf9fab663ca12f3ec9cdf4496fb44bc680140318",
                 "sha256:fcd6f1954943c0c192bfbebbac263f839d7055409f1173f80d8b11a224d236da"
             ],
-            "markers": "python_version >= '3.7'",
+            "index": "pypi",
             "version": "==3.4.3"
         },
         "murmurhash": {
@@ -1024,11 +1024,11 @@
         },
         "ipython": {
             "hashes": [
-                "sha256:0cff04bb042800129348701f7bd68a430a844e8fb193979c08f6c99f28bb735e",
-                "sha256:892743b65c21ed72b806a3a602cca408520b3200b89d1924f4b3d2cdb3692362"
+                "sha256:58b55ebfdfa260dad10d509702dc2857cb25ad82609506b070cf2d7b7df5af13",
+                "sha256:75b5e060a3417cf64f138e0bb78e58512742c57dc29db5a5058a2b1f0c10df02"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==7.26.0"
+            "version": "==7.27.0"
         },
         "ipython-genutils": {
             "hashes": [
@@ -1402,7 +1402,7 @@
                 "sha256:13ac80676e12cf528dc4228dc682c8402f82577c2aa67191e294350fa2c3c4e9",
                 "sha256:517b4e0efd064dd1fe821ca93dd3095d73380ceac1f0a07173d507d9b18f1396"
             ],
-            "markers": "python_version >= '3.6' and python_version < '4.0'",
+            "markers": "python_version >= '3.6' and python_version < '4'",
             "version": "==10.7.0"
         },
         "ruamel.yaml": {
