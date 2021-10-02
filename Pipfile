@@ -10,6 +10,7 @@ sklearn = "*"
 spacy = "*"
 seaborn = "*"
 matplotlib = "*"
+fastai = "*"
 
 [dev-packages]
 ipykernel = "*"
