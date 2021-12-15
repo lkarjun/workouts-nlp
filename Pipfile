@@ -10,10 +10,11 @@ sklearn = "*"
 spacy = "*"
 seaborn = "*"
 matplotlib = "*"
+fastai = "*"
 
 [dev-packages]
 ipykernel = "*"
-dvc = "*"
+dvc = {extras = ["gdrive"], version = "*"}
 
 [requires]
 python_version = "3.8"
