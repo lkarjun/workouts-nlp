@@ -11,10 +11,11 @@ spacy = "*"
 seaborn = "*"
 matplotlib = "*"
 fastai = "*"
+tweepy = "*"
 
 [dev-packages]
 ipykernel = "*"
 dvc = {extras = ["gdrive"], version = "*"}
 
 [requires]
-python_version = "3.8"
+python_version = "3.9"
