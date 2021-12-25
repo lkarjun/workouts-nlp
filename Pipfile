@@ -13,6 +13,8 @@ matplotlib = "*"
 fastai = "*"
 tweepy = "*"
 ipykernel = "*"
+jupyter = "*"
+lab = "*"
 
 [dev-packages]
 ipykernel = "*"
