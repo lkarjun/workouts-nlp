@@ -1,0 +1,5 @@
+outs:
+- md5: ec655988ee0aa1c238083a06c772deb8.dir
+  size: 13689872
+  nfiles: 1
+  path: java-bug
