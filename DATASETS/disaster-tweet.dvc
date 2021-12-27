@@ -1,0 +1,5 @@
+outs:
+- md5: 88b8009bb4ae798992e3eb8adedb0036.dir
+  size: 420783
+  nfiles: 1
+  path: disaster-tweet
